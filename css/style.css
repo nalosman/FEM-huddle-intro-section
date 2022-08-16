@@ -138,6 +138,10 @@ ion-icon:hover {
     gap: 3.75rem; 
   }
 
+  .image {
+    margin-bottom: 0;
+  }
+
   .info {
     text-align: start;
     max-width: 520px;
@@ -170,6 +174,12 @@ ion-icon:hover {
 }
 
 @media screen and (min-width: 61.875em){
+
+  .info {
+    padding-top: 2rem;
+  }
+
+
   .social-icons {
     margin-top: 1.6875rem;
   }
